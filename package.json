@@ -1,0 +1,22 @@
+{
+  "name": "mock6recipebackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yashbank/mock6RecipeBackend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yashbank/mock6RecipeBackend/issues"
+  },
+  "homepage": "https://github.com/yashbank/mock6RecipeBackend#readme",
+  "dependencies": {
+    "json-server": "^0.17.2"
+  }
+}
